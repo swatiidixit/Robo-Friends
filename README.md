@@ -6,7 +6,7 @@ height="130">
 </p>
 
 
-React project that uses the [RoboFriends api](https://www.https://robohash.org/) to show and filter robot characters
+React project that uses the [RoboFriends api](https://www.robohash.org/) to show and filter robot characters
 
 # Usage
 
