@@ -22,12 +22,12 @@ code {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #0965dfb6; 
+  background:  rgba(7,27,82,1); 
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #157508; 
+  background: #10d42a9a; 
 }
 
 ::-webkit-scrollbar-track
