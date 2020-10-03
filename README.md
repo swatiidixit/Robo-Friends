@@ -1,7 +1,7 @@
 # RoboFriends
 
 <p align="center">
-<img src="https://github.com/bayek0fsiwa/Robo-Friends/blob/updated/public/chelseyrobo.png"
+<img src="https://github.com/bayek0fsiwa/Robo-Friends/blob/master/public/chelseyrobo.png"
 height="130">
 </p>
 
